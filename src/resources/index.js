@@ -1,0 +1,11 @@
+export { People } from "./People";
+export { PeopleDetails } from "./PeopleDetails";
+export { Planets } from "./Planets";
+export { PlanetDetails } from "./PlanetDetails";
+export { Starships } from "./Starships";
+export { StarshipDetails } from "./StarshipDetails";
+export { Vehicles } from "./Vehicles";
+export { Films } from "./Films";
+export { FilmDetails } from "./FilmDetails";
+export { Species } from "./Species";
+export { SpeciesDetails } from "./SpeciesDetails";
