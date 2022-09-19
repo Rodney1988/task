@@ -1,6 +1,6 @@
 # Star Wars challenge
 
-Star Wars Universe was originally built on [CodeSandBox](https://codesandbox.io/s/github/Rodney1988/challenge "Open via CodeSandbox"). I worked on CodeSandBox initially to save time / due to technical Issues setting up my private PC to GitHub.
+This application is running with create-react-app. Please install all the respective packages and dependencies first. 
 
 After installing every package with 'npm install', run the main directory with: 'npm start'.
 This will run the react app on localhost:3000.
